@@ -1,0 +1,187 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&family=Poppins:wght@100&family=Ubuntu:wght@300&family=Varela+Round&display=swap');
+.container {
+    border: 1px solid grey;
+    margin-top: 20px;
+    background: #FFFFFF;
+    border-radius: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.profile-img {
+    width: 50%;
+}
+.content {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+    width: 100%;
+    color: #000000;
+}
+.cancel-btn {
+    height: 35px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 22px;
+    color: #F24726;
+    border-radius: 4px;
+    background: #FFFFFF;
+    border-color: #F24726;
+}
+.save-btn {
+    width: 147px;
+    height: 36px;
+    background: #000000;
+    color: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 4px;
+    margin-left: 10px;
+}
+.text {
+    margin-left: -40px;
+}
+hr {
+    width: 100%;
+}
+.information-type {
+    font-family: 'Manrope';
+    font-style: bolder;
+    font-weight: 600;
+    font-size: 18px;
+    color: #000000;
+}
+.form-content {
+    margin-left: 30px;
+}
+.contents {
+    margin-top: 21px;
+    margin-left: -30px;
+}
+.edit-btn {
+    margin-top: 13px;
+}
+button {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 22px;
+    color: #000080;
+    background: transparent;
+    border-radius: 12px;
+    border: 1px solid #000080;
+}
+.profile-information {
+    width: 30%;
+}
+.company-name {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 19px;
+    color: rgba(0, 0, 0, 0.72);
+}
+.company-name input {
+    box-sizing: border-box;
+    width: 248px;
+    height: 36px;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 4px;
+}
+.emailid {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 19px;
+    color: rgba(0, 0, 0, 0.72);
+    display: grid;
+    margin-left: 37px;
+}
+.emailid input {
+    width: 261px;
+    border-radius: 4px;
+}
+.label-heading {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 600 !important;
+    font-size: 18px !important;
+    color: #000000;
+    margin-left: 15px;
+}
+.heading-size {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 600 !important;
+    font-size: 18px !important;
+    margin-top: 9px ;
+}
+select {
+    width: 314px;
+    height: 36px;
+    font-family: 'Manrope' !important;
+    font-style: normal;
+    font-weight: 600;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    font-size: 14px !important;
+    border-radius: 4px;
+}
+.country {
+    width: 263px;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 4px;
+}
+input {
+    width: 314px;
+    height: 36px;
+    font-family: 'Manrope' !important;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px !important;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 4px;
+}
+label {
+    display: block !important;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    color: rgba(0, 0, 0, 0.72);
+}
+
+.FirstName {
+    margin-left: 60px;
+}
+.UserName {
+    margin-left: 36px;
+}
+.LastName {
+    margin-left: 37px;
+}
+.ContactNumber {
+    margin-left: 36px;
+}
+.Country {
+    margin-left: 36px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    color: rgba(0, 0, 0, 0.72);
+    display: grid;
+}
+.user-profile {
+    max-width: 1140px;
+}
+.text-area {
+    resize: none;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 4px;
+}
